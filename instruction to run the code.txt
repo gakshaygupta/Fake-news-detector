@@ -1,0 +1,5 @@
+steps are as follows:
+1) place the train2.tsv,test2.tsv and val2.tsv file in this folder
+2) open the "NUS feature extraction and cleaning.ipynb" file in jupyter notebook 
+   and run each columns.
+3) open the "NUS_TRAINER_.ipynb" file and run each columns
